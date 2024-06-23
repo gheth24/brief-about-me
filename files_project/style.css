@@ -1,0 +1,142 @@
+body{
+    background-color:#6F4E37;
+}
+.title{
+    border-style:solid;
+  background-color: cornflowerblue;
+    padding: 12px;
+    text-align: center;
+    font-size:xx-large;
+    text-shadow: 2px  4px 6px black;
+    border-width: 4px;
+    border-radius: 30px;
+}
+li{
+    font-size: 20px;
+    color:darkblue;
+}
+#d1{
+    width: 100%px;
+    height: fit-content;
+    background-color:#2f8655;
+    text-align: center;
+}
+#mg{
+    width: 100%;
+}
+
+#d2{
+    width: 97%;
+    max-width: 360px;
+    display: inline-block;
+}
+
+#d3{
+    width: 100%;
+    height: unset;
+    padding: 0;
+    background-color: unset;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+    font-size: larger;
+    border: 3px solid crimson;
+    padding: 10px;
+   margin-left:90%;
+}
+a:hover{
+    color: black;
+    background: blue;
+}
+.tow{
+    background-image: url(imgs/photo_2024-06-20_22-41-37.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#title{
+    border-style: solid;
+    padding: 15px;
+    border-width: 3px;
+    background-color:rgba(242, 122, 25, 0.879);
+    color: azure;
+    text-align: center;
+    text-shadow: 2px 5px 5px black;
+    border-radius: 50px;
+}
+#tex{
+  width:100%;
+  height:50%;
+  background-color: #bbe9ffc7;
+  font-size:x-large;
+  text-align: center;
+  
+}
+
+
+.tex{
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    font-size: large;
+    background-color:#c738bdae;
+}
+
+#lev{
+   border-style:outset;
+    font-size: larger;
+    border-width: 3px;
+    background-color: #ff6600b6;
+    text-align:center;
+    padding: 30px;
+    color: lavender;
+    font-weight: 900;
+    text-shadow: 2px 3px 4px blue;
+}
+.three{
+    background-image: url(imgs/photo_2024-06-22_10-37-45.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#three{
+    border-style:solid ;
+    border-color: aqua;
+    padding: 12px;
+    border-width: 3px;
+    border-radius: 20px;
+    background-color: rgba(28, 150, 32, 0.692);
+    text-align:center;
+    color: aliceblue;
+    text-shadow: 2px 4px 6px black;
+
+}
+.ther{
+    width: 100%;
+    height: 300px;
+    background-color: rgba(95, 13, 167, 0.868);
+    text-align: right;
+    font-size: larger;
+    font-weight: 700;
+}
+.end{
+border-style: solid;
+border-color:rgb(5, 7, 7);
+border-radius: 15px;
+padding: 40px;
+font-size: larger;
+font-weight: 800;
+text-align: center;
+background-color: rgba(139, 0, 0, 0.92);
+border-width: 4px;
+color: azure;
+text-shadow: 2px 4px 6px black;
+
+}
+
+
+
