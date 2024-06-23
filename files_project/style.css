@@ -55,6 +55,7 @@ a:hover{
     background-image: url(imgs/photo_2024-06-20_22-41-37.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+     background-size: cover;
 }
 
 #title{
