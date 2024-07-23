@@ -41,6 +41,14 @@ li{
     text-align: right;
 }
 
+#d4{
+    width: 100%;
+    height: unset;
+    padding: 0;
+    background-color: unset;
+    text-align: right;
+}
+
 a{
     text-decoration: none;
     color: azure;
